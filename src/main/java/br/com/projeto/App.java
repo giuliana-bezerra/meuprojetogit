@@ -11,5 +11,6 @@ public class App {
     public static void main( String[] args )
     {
         logger.info( "Hello World!" );
+	logger.info( "Mudança do colega 2" );
     }
 }
