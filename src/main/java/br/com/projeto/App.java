@@ -12,5 +12,6 @@ public class App {
     {
         logger.info( "Hello World!" );
 	logger.info( "Mudança do colega 2" );
+        logger.info( "Mudança do colega 1" );
     }
 }
